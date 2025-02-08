@@ -1,0 +1,14 @@
+.sec1{
+    background-image: url(bg\ images.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.kalyan{
+    background-color: rgba(0, 0, 0, 0.658);
+    padding: 150px 0px;
+}
+.sec3{
+    background-color: black;
+    width: 1100px;
+    padding: 20px;
+}
